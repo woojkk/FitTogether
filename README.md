@@ -17,6 +17,18 @@
 - 1:1 채팅 기능
 - 운동 프로그램 제공
 
+### 기술 스택
+- IDE : IntelliJ
+- Language : Java 11
+- Framework : Spring Boot 2.6.3
+- Database : MySQL (AWS RDS)
+- Build Tool : Gradle
+- API 문서화 : Swagger
+- Container : Docker
+- ORM : JPA
+- Caching : AWS Redis
+- Auth : jwt
+- Real-time : Spring web socket, SSE
 
 
 ### 개발 일정
