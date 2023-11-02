@@ -20,7 +20,7 @@
 - API 문서화 : Swagger
 - Container : Docker
 - ORM : JPA
-- Caching : Redis on AWS EC2
+- Caching : Redis (AWS EC2)
 - Auth : jwt
 - Real-time : Spring web socket, SSE
 - Cloud Infrastructure: AWS EC2
