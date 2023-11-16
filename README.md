@@ -17,7 +17,8 @@
 - 1:1 채팅 기능
 - 운동 프로그램 제공
 
-
+### ERD
+![FT ERD](https://github.com/woojkk/FitTogether/assets/122269418/bfb76ba9-7074-41d0-b918-6dee20548518)
 
 ### 개발 일정
 | 항목              | 기간                      | 상태  |
